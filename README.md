@@ -1,6 +1,6 @@
 # nav_trading_company
 
-An Ecommerce Website
+An Ecommerce App
 
 ## Getting Started
 
